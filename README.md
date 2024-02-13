@@ -19,6 +19,9 @@ TWEEN.js https://github.com/tweenjs/tween.js
 <h2>PLAY🎮</h2>
 https://aleyale98.github.io/Computer-Graphics/
 
+<h2>VIDEO</h2>
+https://drive.google.com/drive/folders/1pgvRiAg4rEWReSmbDmGyNxPyT4Xua2Xx?usp=sharing
+
 <h1 align="center">Informazioni di giocoℹ️</h1>
 
 ![image](https://user-images.githubusercontent.com/65116894/134475941-f4336cb1-7116-4519-8d47-44e5c15a70e2.png)
